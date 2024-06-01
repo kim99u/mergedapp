@@ -12,10 +12,7 @@ import android.text.SpannableString
 import android.util.Log
 import com.faendir.rhino_android.RhinoAndroidHelper
 import org.mozilla.javascript.Context
-import android.app.NotificationManager
 import kotlinx.coroutines.*
-
-import androidx.core.app.NotificationCompat
 
 class MyNotificationListenerService : NotificationListenerService() {
     companion object{

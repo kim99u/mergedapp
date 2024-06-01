@@ -10,7 +10,6 @@ import android.provider.Settings
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.NotificationManagerCompat
-//import com.example.testapp.MyNotificationListenerService
 import com.google.android.gms.wearable.*
 import com.example.testapp.databinding.ActivityMainBinding
 
